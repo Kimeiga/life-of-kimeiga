@@ -1,0 +1,45 @@
+# Title of your blog; shows in the header
+name: "Life of Kimeiga"
+
+# Description of your content (will only be used on Google Search)
+description: "Thoughtful adventures of a bubbly game developer."
+
+# Your name. Will show in your footer + sidebar
+author: "Hakan Alpay"
+
+plugins: [jekyll-paginate]
+
+# url: "http://m3xm.github.io"
+# baseurl: "/hikari-for-jekyll"
+
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
+author-bio: "I'm a sophomore at UCLA studying Computer Science and the vice president of Billiards Club. I like to develop videogames, logos, languages, and crazy Counter-Strike strategies. I also think too much, and hence this blog was born. I would love any feedback you have on my site; you can contact me, or head back to my portfolio."
+
+# Social Accounts (mine, as placeholders)
+
+twitter: theHakanAlpay
+github: kimeiga
+# dribbble: m3xm
+instagram: kimeiga
+portfolio: kimeiga.github.io
+email: kimeiga@outlook.com
+
+# Google Analytics (you may want to changes these with yours or even delete :)
+
+# ga_domain: m3xm.github.io
+# ga_tracking_id: UA-47727049-1
+
+# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
+
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+
+paginate: 10
+paginate_path: "/page/:num"
+
+# SCSS
+
+sass:
+  sass_dir: _scss
+  style: :compressed
