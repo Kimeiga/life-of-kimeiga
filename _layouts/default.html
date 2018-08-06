@@ -15,6 +15,29 @@
       <link href="https://rsms.me/inter/inter-ui.css" rel="stylesheet">
       <link rel="stylesheet" type="text/css" href="{{ site.baseurl| split: '/' | join:'/' }}/css/main.css" />
       <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Site ATOM Feed">
+
+      {% comment %} favicons {% endcomment %}
+      <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ "images/favicons/apple-touch-icon-57x57.png" | relative_url }}" />
+      <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ "images/favicons/apple-touch-icon-114x114.png" | relative_url }}" />
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ "images/favicons/apple-touch-icon-72x72.png" | relative_url }}" />
+      <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ "images/favicons/apple-touch-icon-144x144.png" | relative_url }}" />
+      <link rel="apple-touch-icon-precomposed" sizes="60x60" href="{{ "images/favicons/apple-touch-icon-60x60.png" | relative_url }}" />
+      <link rel="apple-touch-icon-precomposed" sizes="120x120" href="{{ "images/favicons/apple-touch-icon-120x120.png" | relative_url }}" />
+      <link rel="apple-touch-icon-precomposed" sizes="76x76" href="{{ "images/favicons/apple-touch-icon-76x76.png" | relative_url }}" />
+      <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ "images/favicons/apple-touch-icon-152x152.png" | relative_url }}" />
+      <link rel="icon" type="image/png" href="{{ "images/favicons/favicon-196x196.png" | relative_url }}" sizes="196x196" />
+      <link rel="icon" type="image/png" href="{{ "images/favicons/favicon-96x96.png" | relative_url }}" sizes="96x96" />
+      <link rel="icon" type="image/png" href="{{ "images/favicons/favicon-32x32.png" | relative_url }}" sizes="32x32" />
+      <link rel="icon" type="image/png" href="{{ "images/favicons/favicon-16x16.png" | relative_url }}" sizes="16x16" />
+      <link rel="icon" type="image/png" href="{{ "images/favicons/favicon-128.png" | relative_url }}" sizes="128x128" />
+      <meta name="application-name" content="Life of Kimeiga"/>
+      <meta name="msapplication-TileColor" content="#F1C33A" />
+      <meta name="msapplication-TileImage" content="{{ "images/favicons/mstile-144x144.png" | relative_url }}" />
+      <meta name="msapplication-square70x70logo" content="{{ "images/favicons/mstile-70x70.png" | relative_url }}" />
+      <meta name="msapplication-square150x150logo" content="{{ "images/favicons/mstile-150x150.png" | relative_url }}" />
+      <meta name="msapplication-wide310x150logo" content="{{ "images/favicons/mstile-310x150.png" | relative_url }}" />
+      <meta name="msapplication-square310x310logo" content="{{ "images/favicons/mstile-310x310.png" | relative_url }}" />
+
   </head>
 
   <body>
@@ -24,7 +47,7 @@
 
     <div class="off-canvas">
       <figure class="avatar">
-        <img src="{{ site.baseurl }}/assets/img/avatar.jpg" alt="Picture" title="That's me, {{ site.author }}.">
+        <img src="{{ "/images/avatar.jpg" | relative_url }}" alt="Picture" title="That's me, {{ site.author }}.">
       </figure>
       <div class="bio">
           <h1>Hi, I'm {{ site.author }}.</h1>
