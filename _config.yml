@@ -13,13 +13,12 @@ plugins: [jekyll-paginate]
 # baseurl: "/hikari-for-jekyll"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: "I'm a sophomore at UCLA studying Computer Science and the vice president of Billiards Club. I like to develop videogames, logos, languages, and crazy Counter-Strike strategies. I also think too much, and hence this blog was born. I would love any feedback you have on my site; you can contact me, or head back to my portfolio."
+author-bio: "I'm a sophomore at UCLA studying Computer Science and the vice president of Billiards Club. I like to develop videogames, logos, languages, and crazy Counter-Strike strategies. I also think too much, and hence this blog was born. I would love any feedback you have on my site!"
 
 # Social Accounts (mine, as placeholders)
 
 twitter: theHakanAlpay
 github: kimeiga
-# dribbble: m3xm
 instagram: kimeiga
 portfolio: kimeiga.github.io
 email: kimeiga@outlook.com
@@ -35,7 +34,7 @@ markdown: kramdown
 permalink: pretty
 highlighter: rouge
 
-paginate: 10
+paginate: 20
 paginate_path: "/page/:num"
 
 # SCSS
