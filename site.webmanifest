@@ -1,6 +1,17 @@
 {
+    "dir": "ltr",
+    "lang": "en",
     "name": "Life of Kimeiga",
+    "scope": "/blog/",
+    "display": "standalone",
+    "start_url": "https://kimeiga.github.io/blog/",
     "short_name": "Life of Kimeiga",
+    "theme_color": "#F1C33A",
+    "description": "Thoughtful adventures of a bubbly game developer.",
+    "orientation": "any",
+    "background_color": "#F1C33A",
+    "related_applications": [],
+    "prefer_related_applications": false,
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -12,8 +23,5 @@
             "sizes": "512x512",
             "type": "image/png"
         }
-    ],
-    "theme_color": "#f1c33a",
-    "background_color": "#f1c33a",
-    "display": "standalone"
+    ]
 }
