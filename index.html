@@ -15,7 +15,7 @@ title: Homepage
           <article class="inner">
             <time datetime="{{ post.date | date_to_xmlschema }}"
                 itemprop="datePublished">
-              {{ post.date | date_to_string }}
+              {{ post.date | date_to_xmlschema | slice: 0, 10 }}
             </time>
             <p itemprop="name headline">{{ post.title }}</p>
           </article>

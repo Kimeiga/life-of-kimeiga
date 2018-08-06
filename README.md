@@ -11,3 +11,5 @@
 ![Rieber Hall's View](images/ucla-view.jpg?raw=true "Rieber Hall's View")
 
 ## Life of a guy who tries to bhop with every character
+
+Life of a guy who heavily modified the great [Hikari](https://github.com/m3xm/hikari-for-Jekyll) Jekyll theme for this blog!
