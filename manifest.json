@@ -1,0 +1,152 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Life of Kimeiga",
+    "scope": "/blog/",
+    "display": "browser",
+    "start_url": "https://kimeiga.github.io/blog/",
+    "short_name": "Life of Kimeiga",
+    "theme_color": "#F1C33A",
+    "description": "Thoughtful adventures of a bubbly game developer.",
+    "orientation": "any",
+    "background_color": "#F1C33A",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/favicons/blog/images/favicons/mstile-144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/favicons/blog/images/favicons/apple-touch-icon-57x57.png",
+            "sizes": "57x57",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/blog/images/favicons/apple-touch-icon-114x114.png",
+            "sizes": "114x114",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/blog/images/favicons/apple-touch-icon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/blog/images/favicons/apple-touch-icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/blog/images/favicons/apple-touch-icon-60x60.png",
+            "sizes": "60x60",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/blog/images/favicons/apple-touch-icon-120x120.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/blog/images/favicons/apple-touch-icon-76x76.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/blog/images/favicons/apple-touch-icon-152x152.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/blog/images/favicons/favicon-196x196.png",
+            "sizes": "196x196",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/blog/images/favicons/favicon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/blog/images/favicons/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/blog/images/favicons/favicon-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/blog/images/favicons/favicon-128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/a4bd41ac-8056-c794-f9f0-6b78bf1cc645.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/7c15c48a-3a20-0134-40d6-c23d5f21a320.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/windows10/SplashScreen.scale-200.png.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/b4ff9396-0baf-bd8e-a82d-6a8cdb3c348b.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/a4eab9b8-6ef5-b063-3a84-697ba0ab8567.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/30df332c-b389-5ee5-fdf9-abcc90c92d5f.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/5da0245c-7df6-a463-1c81-6565704a0d6a.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/212d6ceb-7219-6530-3619-bbf1ec39c76f.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/adfa20e2-024a-2ee2-9bdc-b3ff3cb8b3e2.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/501cf698-59bf-7a88-cbbc-0f6fc0ea4946.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/507170f8-59c5-d10a-3abe-e0bcf8c33025.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/ios/ios-appicon-1024-1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicons/f366a530-696d-ee83-e07a-80582bf34322.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ]
+}
