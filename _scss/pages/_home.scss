@@ -12,10 +12,11 @@
     }
 
     .p-wrap {
-      padding: $spacing-ml $spacing-m;
+      padding: $spacing-l $spacing-m;
       background: rgba( #000000, .4 );
       transition: all .15s ease-in;
       font-weight: bold;
+      font-size: 1.4em;
       &:active {
         background: darken($main-color, 3%);
       }
@@ -61,7 +62,7 @@
       color: $main-color;
       display: inline-block;
       padding-right: $spacing-s;
-      width: 155px;
+      // width: 155px;
       @media (max-width: 942px) {
         display: block;
         width: auto;
