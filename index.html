@@ -10,7 +10,7 @@ title: Homepage
       {% if post.image %}
       <img src="{{ site.baseurl }}/images/{{ post.image }}" alt="post picture background">
       {% endif %}
-      <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
+      <a href="{{ site.baseurl }}{{ post.url }}#disqus-thread" itemprop="url">
         <div class="p-wrap">
           <article class="inner">
             <time datetime="{{ post.date | date_to_xmlschema }}"
