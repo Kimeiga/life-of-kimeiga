@@ -10,14 +10,18 @@ title: Homepage
       {% if post.image %}
       <img src="{{ site.baseurl }}/images/{{ post.image }}" alt="post picture background">
       {% endif %}
-      <a href="{{ site.baseurl }}{{ post.url }}#disqus-thread" itemprop="url">
+      <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
         <div class="p-wrap">
           <article class="inner">
             <time datetime="{{ post.date | date_to_xmlschema }}"
                 itemprop="datePublished">
               {{ post.date | date_to_xmlschema | slice: 0, 10 }}
             </time>
-            <p itemprop="name headline">{{ post.title }}</p>
+            <div>
+              <p itemprop="name headline">{{ post.title }}</p>
+              <span class="disqus-comment-count" data-disqus-identifier="{{ post.id }}">0 Comments</span>
+            </div>
+            
           </article>
         </div>      
       </a>

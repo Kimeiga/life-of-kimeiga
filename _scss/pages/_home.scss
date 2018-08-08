@@ -12,7 +12,7 @@
     }
 
     .p-wrap {
-      padding: $spacing-l $spacing-m;
+      padding: $spacing-ml $spacing-m;
       background: rgba( #000000, .4 );
       transition: all .15s ease-in;
       font-weight: bold;
@@ -26,7 +26,7 @@
           -webkit-transform: translateX($spacing-s);
           -ms-transform: translateX($spacing-s);
           transform: translateX($spacing-s);
-          &::after {
+          p::after {
             content:'\2192';
             margin-left: $spacing-xs;
             @media (max-width: 942px) {
@@ -46,7 +46,14 @@
       .inner {
         // margin: $spacing-ml $spacing-m;
         transition: all .15s ease-in;
+        
+        .disqus-comment-count{
+          display: block;
+          font-size: 0.8em;
+          opacity: 0.7;
+        }
       }
+
     } // end .p-wrap
     
      img {
