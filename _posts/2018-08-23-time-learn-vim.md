@@ -2,7 +2,7 @@
 layout: post
 title:  "Time to Learn Vim"
 date:   2018-08-23 11:37:32
-image: ucla-view.jpg
+image: ucla-view-2.jpg
 ---
 
 I know this has been said a thousand times but if you happen to be in a situation where you only have a low-end laptop and you want to make a Vue app or code anything really, do give Vim a try.
@@ -22,3 +22,7 @@ And if you get to know Vim really well, then you can make any computer a product
 If you still prefer something Notepad++-level intuitive, try Micro, but if you're only on Git Bash/MinTTY on your grandma's laptop which can't open Micro or too many other binary programs for some reason (I still haven't figured out), you're better off using Vim (I had also considered downloading WSL but it would take too much space for not enough benefit).
 
 And no I am not gonna use Emacs. If there's one thing CS35L taught me, it's that I don't have any idea what's going on in that application. And it uses more memory than Vim (Reader Comment: But it has games! My Reply: Granted, it does have games).
+
+#### About this picture
+
+Here's another view of UCLA at night from Rieber Hall 7th floor.
