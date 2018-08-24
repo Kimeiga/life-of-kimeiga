@@ -2,7 +2,7 @@
 layout: post
 title:  "Time to Learn Vim"
 date:   2018-08-23 11:37:32
-image: ucla-view-2.jpg
+image: ucla-view-2.JPG
 ---
 
 I know this has been said a thousand times but if you happen to be in a situation where you only have a low-end laptop and you want to make a Vue app or code anything really, do give Vim a try.
