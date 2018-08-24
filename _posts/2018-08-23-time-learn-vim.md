@@ -5,7 +5,7 @@ date:   2018-08-23 11:37:32
 image: ucla-view.jpg
 ---
 
-I know this has been said a thousand times but if you happen to be in a situation where you only have a low end laptop and you want to make a Vue app or code anything really, do give Vim a try.
+I know this has been said a thousand times but if you happen to be in a situation where you only have a low-end laptop and you want to make a Vue app or code anything really, do give Vim a try.
 
 I downloaded Visual Studio Code on this $180 Dell Inspiron (that was lying around at my grandmother's house) and even after removing all the bloatware, it still only chugged along with both Chrome and VScode running. I'm a GUI editor guy, and the only terminal text editor I really like (at the time) is [Micro](https://micro-editor.github.io).
 
