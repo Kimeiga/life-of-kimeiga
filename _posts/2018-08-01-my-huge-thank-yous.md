@@ -1,9 +1,8 @@
 ---
 layout: post
 title: My Huge Thank Yous
-date: {}
+date: 2018-08-01
 image: ucla-view.jpg
-published: true
 ---
 
 This page exists just to say thank you to all the people whose work I've used and people who have supported me in life. 🙇‍
