@@ -79,7 +79,7 @@ People often ask me how I know how to do something. Their first assumption was t
 
 > Hard work begets human vitality.
 
-I'll say that again for the people in the back. Hard work begets human vitality. You're only going to major in one - three things in college (unless you're a masochist). Other aspects of life will be taught to you in General Education courses. Your high school experience was practically all General Education.
+I'll say that again for the people in the back. Hard work begets human vitality. You're only going to major in one to three things in college (unless you're a masochist). Other aspects of life will be taught to you in General Education courses. Your high school experience was practically all General Education.
 
 **The truth is that you're not going to be taught classes on all of the practical things in life.** Your general education classes are often humanities, which are important to being a well rounded citizen, but won't teach you how to use a chop-saw. The only way you're going to learn these things is by doing side projects.
 
