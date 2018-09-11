@@ -7,7 +7,9 @@ description: "Thoughtful adventures of a bubbly game developer."
 # Your name. Will show in your footer + sidebar
 author: "Hakan Alpay"
 
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 # url: "http://m3xm.github.io"
 # baseurl: "/hikari-for-jekyll"
