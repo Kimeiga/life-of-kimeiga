@@ -75,7 +75,7 @@ Knowing your bosses by their first name will make climbing the social ladder muc
 
 People often ask me how I know how to do something. Their first assumption was that I was taught it by someone. The answer for 99% of my knowledge is that one day I randomly felt like making some random thing and then happened to learn a lot while making it. 
 
-**People largely don't do side-projects**. There's this idea that you're already working enough for work/school, why do more? It's time to relax. I'm here to tell you that working hard is how you *life*.
+**People largely don't do side-projects**. There's this idea that you're already working enough for work/school, why do more? It's time to relax. I'm here to tell you that working hard is how you *live*.
 
 > Hard work begets human vitality.
 
