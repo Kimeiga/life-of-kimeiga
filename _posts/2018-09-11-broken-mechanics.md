@@ -67,7 +67,7 @@ This is a biggie broken mechanic. When you're in school, make friends with your 
 
 Teachers dote on students that they like because **very few** students try to befriend them or present them with lots of respect. So few that this becomes a broken mechanic. 
 
-Same with bosses in your job. Bosses know when an employee is trying to brownnose. You're job is not to brownnose, but to befriend. Treat your bosses respectfully, be prompt, and actively think out loud with them about how to solve a problem the company is facing. Bosses love when their employees are thinking about the bigger picture and trying to work with them on overarching strategies. That shows to them that you are ambitious about your job, and aren't just a work monkey.
+Same with bosses in your job. Bosses know when an employee is trying to brownnose. Your job is not to brownnose, but to befriend. Treat your bosses respectfully, be prompt, and actively think out loud with them about how to solve a problem the company is facing. Bosses love when their employees are thinking about the bigger picture and trying to work with them on overarching strategies. That shows to them that you are ambitious about your job, and aren't just a work monkey.
 
 Knowing your bosses by their first name will make climbing the social ladder much easier, in addition to making literally every work day of your career much easier.
 
