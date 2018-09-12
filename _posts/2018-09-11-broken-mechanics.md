@@ -109,7 +109,7 @@ It's your job to find these and exploit them if you want to get ahead. I underst
 
 You personally may not believe you need much in life to be happy, but remember your parents. Your parents paid a large proportion of their life and wealth to birth you, support you, educate you, feed you, clothe you, and help you become successful. If your parents are putting you through college, they are paying **a lot** of money on top of that. Eventually your parents are going to retire from their jobs and collect retirement payments, *but those aren't enough to live comfortably*.
 
-You may not care much for money yourself, but you need to earn enough to support yourself, **and your parents**. Your parents basically made a massive investment by giving birth to you, and subsequently paying for your college education. It's now your responsibility to make good on their investment by returning value to them in the form of supporting them when they become to old to work.
+You may not care much for money yourself, but you need to earn enough to support yourself, **and your parents**. Your parents basically made a massive investment by giving birth to you, and subsequently paying for your college education. It's now your responsibility to make good on their investment by returning value to them in the form of supporting them when they become too old to work.
 
 How is this related to broken mechanics and the meta of life? Playing the meta of life will greatly help you become successful and earn a large amount of money in a stable, respectable job. With that money, you can live comfortably yourself (with your life partner if you so choose), but more importantly, you can support your family so when they retire, they too can live comfortably.
 
