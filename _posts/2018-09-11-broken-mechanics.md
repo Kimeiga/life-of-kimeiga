@@ -15,7 +15,7 @@ Ever competitive game has a *meta*. A meta is a set of playstyles that use the g
 
 Life, being a game, has a meta too! However, you will find that a low percentage of people play Life's meta, much lower than in any competitive game. This is because humans have a lot to lose in **real life**. We have families, reputations, and personal belongings. In a game, we have anonymity and few real world consequences for our actions, so we are free exploit mechanics as we wish. In real life, people are much more *risk-averse*, and will try to avoid doing things if not many other people are doing them, even if they are extremely viable. Such is the herding of real life.
 
-The following is a my list of Life's *broken mechanics* that relatively few people exploit, but are literally there for the taking. A *broken* mechanic, is one that is so viable that there's almost no reason not to use it (it is thus part of the *meta*).
+The following is my list of Life's *broken mechanics* that relatively few people exploit, but are literally there for the taking. A *broken* mechanic, is one that is so viable that there's almost no reason not to use it (it is thus part of the *meta*).
 
 ## 1. STEM Majors
 
