@@ -9,7 +9,7 @@ author: "Hakan Alpay"
 
 plugins:
   - jekyll-paginate
-  - jekyll-seo-tag
+  # - jekyll-seo-tag
 
 # url: "http://m3xm.github.io"
 # baseurl: "/hikari-for-jekyll"
